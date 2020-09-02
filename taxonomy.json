@@ -1,0 +1,83 @@
+[
+    {
+        "preferredLabel": "Comcast IC",
+        "processedNode": "comcast ic",
+        "altLabels": [],
+        "nodeId": "https://vocabulary.comcast.com/comcast-dev/0",
+        "parentNode": ""
+    },
+    {
+        "preferredLabel": "Amenities",
+        "processedNode": "amen",
+        "altLabels": [],
+        "nodeId": "https://vocabulary.comcast.com/comcast-dev/319",
+        "parentNode": "Comcast IC"
+    },
+    {
+        "preferredLabel": "Food Services",
+        "processedNode": "food servic",
+        "altLabels": [
+            "cafeteria",
+            "menu",
+            "d & i"
+        ],
+        "nodeId": "https://vocabulary.comcast.com/comcast-dev/320",
+        "parentNode": "Amenities"
+    },
+    {
+        "preferredLabel": "Wellness Services",
+        "processedNode": "well servic",
+        "altLabels": [],
+        "nodeId": "https://vocabulary.comcast.com/comcast-dev/324",
+        "parentNode": "Amenities"
+    },
+    {
+        "preferredLabel": "Content Type",
+        "processedNode": "content type",
+        "altLabels": [],
+        "nodeId": "https://vocabulary.comcast.com/comcast-dev/000",
+        "parentNode": ""
+    },
+    {
+        "preferredLabel": "Connection",
+        "processedNode": "connect",
+        "altLabels": [],
+        "nodeId": "https://vocabulary.comcast.com/comcast-dev/001",
+        "parentNode": "Content Type"
+    },
+    {
+        "preferredLabel": "Location",
+        "processedNode": "locat",
+        "altLabels": [],
+        "nodeId": "https://vocabulary.comcast.com/comcast-dev/010",
+        "parentNode": ""
+    },
+    {
+        "preferredLabel": "United States",
+        "processedNode": "unit state",
+        "altLabels": [],
+        "nodeId": "https://vocabulary.comcast.com/comcast-dev/011",
+        "parentNode": "Location"
+    },
+    {
+        "preferredLabel": "Florida",
+        "processedNode": "florida",
+        "altLabels": [],
+        "nodeId": "https://vocabulary.comcast.com/comcast-dev/012",
+        "parentNode": "United States"
+    },
+    {
+        "preferredLabel": "Comcast Cable",
+        "processedNode": "comcast cabl",
+        "altLabels": [],
+        "nodeId": "https://vocabulary.comcast.com/comcast-dev/100",
+        "parentNode": ""
+    },
+    {
+        "preferredLabel": "Comcast Spectacor",
+        "processedNode": "comcast spectacor",
+        "altLabels": [],
+        "nodeId": "https://vocabulary.comcast.com/comcast-dev/101",
+        "parentNode": "Comcast Cable"
+    }
+]
